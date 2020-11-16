@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+JozefGertz7A
+</name>
+</assembly>
+<members>
+<member name="T:JozefGertz7A.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:JozefGertz7A.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:JozefGertz7A.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:JozefGertz7A.My.Resources.Resources.Divinity2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:JozefGertz7A.My.Resources.Resources.Stellaris">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:JozefGertz7A.My.Resources.Resources.strTemplateVersion">
+<summary>
+  Looks up a localized string similar to 2020.07.
+</summary>
+</member>
+<member name="P:JozefGertz7A.My.Resources.Resources.TES4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:JozefGertz7A.My.Resources.Resources.VB_Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
